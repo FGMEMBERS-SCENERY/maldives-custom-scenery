@@ -1,0 +1,5 @@
+OBJECT_BASE 4151180.btg
+OBJECT VRMM.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 73.529493 4.206710 2.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 73.528763 4.176953 1.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 73.530552 4.191856 -9999.0 0.00
