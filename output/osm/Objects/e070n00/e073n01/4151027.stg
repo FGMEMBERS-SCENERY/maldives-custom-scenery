@@ -1,0 +1,19 @@
+# osm2city__home_delta_Malediven_osm
+# do not edit below this line
+# Last Written Mon Feb 15 16:44:18 2016
+#
+OBJECT_STATIC _home_delta_Malediven_osmcity63150.xml 73.49783 1.81458 -0.64 0
+OBJECT_STATIC lightmap-switch.xml 73.49783 1.81458 -0.64 0
+OBJECT_STATIC _home_delta_Malediven_osmcity63151.xml 73.49783 1.83267 -0.01 0
+# END osm2city__home_delta_Malediven_osm
+# osm2roads__home_delta_Malediven_osm
+# do not edit below this line
+# Last Written Mon Feb 15 17:02:17 2016
+#
+OBJECT_STATIC _home_delta_Malediven_osmroads132153.xml 73.38378 1.77634 -0.21 0
+OBJECT_STATIC _home_delta_Malediven_osmroads132154.xml 73.38378 1.79442 0.16 0
+OBJECT_STATIC _home_delta_Malediven_osmroads132155.xml 73.38378 1.81251 -0.27 0
+OBJECT_STATIC _home_delta_Malediven_osmroads136155.xml 73.45574 1.81251 -0.36 0
+OBJECT_STATIC _home_delta_Malediven_osmroads136156.xml 73.45574 1.83060 -0.42 0
+OBJECT_STATIC _home_delta_Malediven_osmroads138156.xml 73.49173 1.83060 -0.11 0
+# END osm2roads__home_delta_Malediven_osm

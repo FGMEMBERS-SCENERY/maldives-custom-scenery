@@ -1,0 +1,11 @@
+# osm2roads__home_delta_Malediven_osm
+# do not edit below this line
+# Last Written Mon Feb 15 17:02:17 2016
+#
+OBJECT_STATIC _home_delta_Malediven_osmroads111423.xml 73.00597 6.65980 -2.38 0
+OBJECT_STATIC _home_delta_Malediven_osmroads112423.xml 73.02396 6.65980 -0.00 0
+OBJECT_STATIC _home_delta_Malediven_osmroads112426.xml 73.02396 6.71406 -0.36 0
+OBJECT_STATIC _home_delta_Malediven_osmroads112427.xml 73.02396 6.73215 -0.04 0
+OBJECT_STATIC _home_delta_Malediven_osmroads115423.xml 73.07794 6.65980 0.91 0
+OBJECT_STATIC _home_delta_Malediven_osmroads117425.xml 73.11392 6.69597 -0.05 0
+# END osm2roads__home_delta_Malediven_osm
