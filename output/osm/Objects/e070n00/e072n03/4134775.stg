@@ -1,6 +1,6 @@
 # osm2city__home_delta_Malediven_osm
 # do not edit below this line
-# Last Written Mon Feb 15 16:44:18 2016
+# Last Written Mon Feb 15 19:10:27 2016
 #
 OBJECT_STATIC _home_delta_Malediven_osmcity31258.xml 72.92213 3.76797 -0.57 0
 OBJECT_STATIC lightmap-switch.xml 72.92213 3.76797 -0.57 0
@@ -9,5 +9,4 @@ OBJECT_STATIC _home_delta_Malediven_osmcity33259.xml 72.95811 3.78605 -0.04 0
 OBJECT_STATIC _home_delta_Malediven_osmcity33260.xml 72.95811 3.80414 -0.01 0
 OBJECT_STATIC _home_delta_Malediven_osmcity33262.xml 72.95811 3.84032 -0.02 0
 OBJECT_STATIC _home_delta_Malediven_osmcity33263.xml 72.95811 3.85840 -0.14 0
-OBJECT_STATIC _home_delta_Malediven_osmcity34259.xml 72.97610 3.78605 -0.81 0
 # END osm2city__home_delta_Malediven_osm
