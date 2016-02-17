@@ -3,3 +3,7 @@ OBJECT VRMG.btg
 OBJECT_SHARED Models/Airport/windsock_lit.xml 73.143527 -0.690870 1.2 0.00
 OBJECT_SHARED Models/Airport/windsock_lit.xml 73.167765 -0.695810 1.3 0.00
 OBJECT_SHARED Models/Airport/beacon.xml 73.155860 -0.691935 3.5 0.00
+OBJECT VRMG.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 73.143527 -0.690870 1.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 73.167765 -0.695810 1.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 73.155860 -0.691935 3.5 0.00
