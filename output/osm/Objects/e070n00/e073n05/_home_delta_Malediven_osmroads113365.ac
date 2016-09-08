@@ -4,7 +4,7 @@ OBJECT world
 kids 1
 OBJECT poly
 name "_home_delta_Malediven_osmroads113365"
-texture "tex/roads.png"
+texture "../../../Models/OSM/tex/roads.png"
 numvert 208
 285.607 4.5744 -497.616
 294.31 1.8494 -460.33
